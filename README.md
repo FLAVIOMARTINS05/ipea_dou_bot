@@ -2,7 +2,7 @@
  This is an attempt to automate changes of personnel at an specific federal entity in Brazil: Ipea
  
                         Very last change: 
- 	 27 January, 2026
+ 	 28 January, 2026
 	Declarar a vacância do cargo de Técnico de Planejamento e Pesquisa, ocupado pelo servidor BRUNO FERREIRA CORDEIRO, matrícula SIAPE nº XX202XX, a partir de 22 de janeiro de 2026, por motivo de posse em outro cargo inacumulável, com fundamento no art. 33, inciso VIII, da Lei n º 8.112/90.
 Declarar a vacância do cargo de Técnico de Planejamento e Pesquisa, ocupado pelo servidor PLÍNIO ANDRADE PASSOS, matrícula SIAPE nº XX427XX, a partir de 22 de janeiro de 2026, por motivo de posse em outro cargo inacumulável, com fundamento no art. 33, inciso VIII, da Lei n º 8.112/90.
 Declarar a vacância do cargo de Técnico de Planejamento e Pesquisa, ocupado pelo servidor JOÃO PEDRO SUSSEL BERTOGNA, matrícula SIAPE nº XX221XX, a partir de 22 de janeiro de 2026, por motivo de posse em outro cargo inacumulável, com fundamento no art. 33, inciso VIII, da Lei n º 8.112/90.
